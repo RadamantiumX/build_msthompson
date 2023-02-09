@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04b61110.css",
+    "main.js": "/static/js/main.7714ac1f.js",
+    "static/js/787.40735695.chunk.js": "/static/js/787.40735695.chunk.js",
+    "static/media/micro-animado.gif": "/static/media/micro-animado.c47119562275d384edbc.gif",
+    "static/media/video1.mp4": "/static/media/video1.3b6e6ed08ee0dc02cc92.mp4",
+    "static/media/bg-img.png": "/static/media/bg-img.620e0612057676204101.png",
+    "static/media/goteo.png": "/static/media/goteo.1bc89145254beae3962b.png",
+    "static/media/video2.mp4": "/static/media/video2.b03961e36d075bb4faa4.mp4",
+    "static/media/Explotado_plano.PDF": "/static/media/Explotado_plano.7cac8b07382350731621.PDF",
+    "static/media/Pieza3.PDF": "/static/media/Pieza3.0a30a12060cb586b8f54.PDF",
+    "static/media/Pieza2.PDF": "/static/media/Pieza2.b6b5ff4d9946c04d8f94.PDF",
+    "static/media/contaminacion.png": "/static/media/contaminacion.95888ab0ffe6f0aba850.png",
+    "static/media/bacterias.png": "/static/media/bacterias.e8a00c56f35eaac1359a.png",
+    "static/media/Pieza4.PDF": "/static/media/Pieza4.b43ba5f0191b499cc900.PDF",
+    "static/media/Pieza1.PDF": "/static/media/Pieza1.27d4337da36bdf8a8558.PDF",
+    "static/media/Laser_Pointer_Switch.zip": "/static/media/Laser_Pointer_Switch.f2d523d6608fe8930097.zip",
+    "static/media/Logo.png": "/static/media/Logo.6baf37b697dbc4cb5b16.png",
+    "static/media/agua_limpia.png": "/static/media/agua_limpia.a88f9268bef7876b54b5.png",
+    "static/media/camara-web.png": "/static/media/camara-web.e399af7227149893cfcd.png",
+    "static/media/camara.png": "/static/media/camara.8863c1d2789825f76759.png",
+    "static/media/Pieza_Base.jpeg": "/static/media/Pieza_Base.a29c90fecdc3bcdd6f0a.jpeg",
+    "index.html": "/index.html",
+    "main.04b61110.css.map": "/static/css/main.04b61110.css.map",
+    "main.7714ac1f.js.map": "/static/js/main.7714ac1f.js.map",
+    "787.40735695.chunk.js.map": "/static/js/787.40735695.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b61110.css",
+    "static/js/main.7714ac1f.js"
+  ]
+}
